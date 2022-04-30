@@ -1,26 +1,12 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
-description:
-keywords: ["about-us", "about-hugo", "contact"]
-type: about
+title: About the Event
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+🎉🎉  Doggy Adoption Event 🎉🎉 
 
-Hugo makes use of a variety of open source projects including:
+We are so excited for our Dog Adoption Event!!! 
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Join us on May 14th, from 12p-3p at The Residence at Boylston Place in Chestnut Hill! Light refreshments and snacks, along with free parking will be available!! 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If you’re interested in meeting some of our adoptable pals, we recommend filling out an application ahead of time and getting approved before the event. You can apply at- www.safewithusanimalrescue.org. 
+Keep an eye on this page because we will be sharing some of the pals who will be attending! 

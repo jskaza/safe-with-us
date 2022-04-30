@@ -79,3 +79,8 @@
     mobileMenuButton.addEventListener('click', toggleMenu)
   }
 </script>
+
+
+{{ $carousel := resources.Get "js/carousel.js" | resources.Minify}}
+
+<script src="{{ $carousel.Permalink }}"></script>
