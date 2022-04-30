@@ -56,3 +56,4 @@ title = "Safe With Us Dog Adoption Event"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+canonifyURLs = true
