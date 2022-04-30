@@ -23,6 +23,6 @@
       </table>
       <p class="font-light text-lg">{{ .Site.Params.introSubtitle | safeHTML}}</p>
     </div>
-    <img class="rounded-lg shadow-sm" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" />
+    <img class="rounded-lg shadow-sm" src="{{ .Site.BaseURL }}{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" />
   </div>
 </section>
