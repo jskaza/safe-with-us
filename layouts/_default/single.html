@@ -1,8 +1,9 @@
 {{ define "main" }}
+{{ $baseURL := .Site.BaseURL }}
 {{ if .Params.img_dir }}
 <div>
   {{ partial "carousel.html" (dict "context" . "items" "1" "height" "80" "unit" "%" "duration" "5000" 
-  "img_dir" .Params.img_dir ) }}
+  "img_dir" .Params.img_dir "baseURL" $baseURL) }}
 </div>
 {{ end }}
 <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
